@@ -1,9 +1,9 @@
 ---
-title: Recursive Mistake are Costly
+title: Recursive Mistakes are Costly
 date: 2017-04-12 09:52:06
 layout: post
 path: "/posts/recursive-mistakes-are-costly/"
-categroy: "Programming"
+category: "Programming"
 tags:
 - recursion
 - ruby
