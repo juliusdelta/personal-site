@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://alxshelepenok.github.com/gatsby-starter-lumen',
+    url: 'https://jds.work',
     title: 'Techniblog',
     subtitle: 'Sharing thoughts on tech, music, and other stuff',
     copyright: '© 2017 All rights reserved.',
@@ -22,8 +22,8 @@ module.exports = {
       name: 'Jonathan Gonzales',
       email: 'jd_gonzales@icloud.com',
       telegram: '#',
-      twitter: 'juliusdelta',
-      github: 'juliusdelta',
+      twitter: 'https://twitter.com/juliusdelta',
+      github: 'https://github.com/juliusdelta',
       rss: '#',
       vk: '#'
     }
