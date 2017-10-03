@@ -15,4 +15,4 @@ The best way I think you can learn something, is by jumping in the deep end. It'
 
 I recently jumped in over my head on an open source issue on a project called [Diesel](https://diesel.rs). I'm extremely new to Rust, so it was nerve wracking taking an issue that I felt unprepared for. The fears I dealt with were around being annoying to the core team, or having the issue reassigned. Both didn't really have that big of consequences after I thought about them. So I ended up getting over my pride and just asking carefully thought out questions. The guys, Sean Griffin, Bastien Orivel, and Pascal Hertlief were extremely helpful and made the experience great. My fears were for nothing.
 
-It's a small anecdote for a very tough thing to deal with. All I can say is, if something feels mildly out of reach, jump in to it anyways.
+It's a small anecdote for a very tough thing to deal with. All I can say is, if something feels mildly out of reach, jump into it anyways.
