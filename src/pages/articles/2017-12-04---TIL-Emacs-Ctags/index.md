@@ -1,5 +1,5 @@
 ---
-title: TIL: Using Ctags in Emacs
+title: TIL - Using Ctags in Emacs
 date: 2017-12-04 05:41:47
 layout: post
 path: "/posts/using-ctags-in-emacs/"
