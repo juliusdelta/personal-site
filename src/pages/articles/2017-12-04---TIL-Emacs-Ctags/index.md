@@ -17,7 +17,7 @@ Just for reference, I've been grepping to do this in Emacs using `projectile-gre
 
 # What are Ctags
 
-Ctags are basically an indexing of all method definitions in your entire project. It allows you to jump quickly between files and definitions fast. From what I understand this is a very "IDE-esque" feature. But it's been around long enough for editors like Emacs and Vim. If you want to see what the look like, they're very readable. Just open up the TAGS file that's generated after this tutorial and read through it. It's pretty easy to understand.
+Ctags are basically an indexing of all method definitions in your entire project. It allows you to jump quickly between files and definitions fast. From what I understand this is a very "IDE-esque" feature but it's been around long enough for editors like Emacs and Vim. If you want to see what they look like, they're very readable. Just open up the TAGS file that's generated after this tutorial and read through it. It's pretty easy to understand.
 
 # The Process
 
